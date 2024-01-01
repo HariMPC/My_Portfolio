@@ -142,6 +142,7 @@ nav ul li a:hover::after{
 }
 .work img{
     width: 100%;
+    height: 350px;
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
@@ -231,8 +232,9 @@ margin-top: 30px;
     transform: translateY(-5px);
 }
 .btn.btn2{
+    font-size: 15px;
     display: inline-block;
-    background: darkblue ;
+    background: darkblue;
 }
 .contact-right form{
     width: 100%;
@@ -261,6 +263,7 @@ form btn2{
     background: #262626;
     font-weight: 300;
     margin-top: 20px;
+    position: absolute;
 }
 
 /* ---------------css for small Screens------------------ */
