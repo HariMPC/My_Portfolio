@@ -125,6 +125,20 @@ nav ul li a:hover::after{
 .tab-contents.active-tab{
     display: block;
 }
+ /* ------------skills---------------*/
+ #skills{
+    padding: 40px 0;
+    color: #ababaa; 
+}
+.skills-list ul li{
+    list-style: none;
+    margin: 10px 0;
+}
+.skills-list ul li span{
+    color: rgb(39, 39, 185);
+    font-size: 25px;
+}
+
 /* ----------Portfolio-----------  */
 #portfolio{
     padding: 50px 0;
